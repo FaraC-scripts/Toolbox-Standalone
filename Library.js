@@ -1,12 +1,6 @@
 // Start of Toolbox's library
 /**
  * Toolbox v2.0 by FaraC
- * This verison is designed to pair with Prompt Generator v2.0
- * It expects a story card called Initial Prompt
- * with "${Paste your generated prompt here}" as its entry,
- * where the player can input a JSON string. 
- * Other versions available at:
- * https://github.com/FaraC-scripts
  *  
  * Toolbox provides discrete, powerful utilities for narrative storybuilding.
  * Each tool is activated by player inputs: commands beginning with '/'
@@ -20,7 +14,7 @@
  * Each tool is controlled by commands entered into Do or Say, such as /cyoa
  * For more information on each tool and Toolbox in general, use /help or
  * check the Readme: 
- * https://github.com/FaraC-scripts/Toolbox/blob/main/README.md
+ * https://github.com/FaraC-scripts/Toolbox-Standalone/blob/main/README.md
  */
 
 
