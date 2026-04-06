@@ -4,11 +4,11 @@ An AI Dungeon script for adding a variety of tools and utilities to a scenario. 
 # 🧰 Toolbox v2.0 Operation Manual 🧰
 
 ⚙️ Installation
-> To install this script in your own scenario, go to the Details tab while editing the scenario.
-> In the Scripting section, toggle Scripts Enabled
-> Click Edit Scripts
-> Copy and paste Library.js into the Library section, and the same for Input, Context, and Output.
-> Save and play!
+- To install this script in your own scenario, go to the Details tab while editing the scenario.
+- In the Scripting section, toggle Scripts Enabled
+- Click Edit Scripts
+- Copy and paste Library.js into the Library section, and the same for Input, Context, and Output.
+- Save and play!
 
 🌍 Overview
 > Toolbox has active and passive features.
